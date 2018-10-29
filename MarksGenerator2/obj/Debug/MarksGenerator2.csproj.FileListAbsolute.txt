@@ -1,0 +1,6 @@
+c:\users\samodhi ruwangi\documents\visual studio 2015\Projects\MarksGenerator2\MarksGenerator2\bin\Debug\MarksGenerator2.exe.config
+c:\users\samodhi ruwangi\documents\visual studio 2015\Projects\MarksGenerator2\MarksGenerator2\bin\Debug\MarksGenerator2.exe
+c:\users\samodhi ruwangi\documents\visual studio 2015\Projects\MarksGenerator2\MarksGenerator2\bin\Debug\MarksGenerator2.pdb
+c:\users\samodhi ruwangi\documents\visual studio 2015\Projects\MarksGenerator2\MarksGenerator2\obj\Debug\MarksGenerator2.csprojResolveAssemblyReference.cache
+c:\users\samodhi ruwangi\documents\visual studio 2015\Projects\MarksGenerator2\MarksGenerator2\obj\Debug\MarksGenerator2.exe
+c:\users\samodhi ruwangi\documents\visual studio 2015\Projects\MarksGenerator2\MarksGenerator2\obj\Debug\MarksGenerator2.pdb
